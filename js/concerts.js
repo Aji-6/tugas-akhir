@@ -2,7 +2,7 @@ const concerts = [
 	{
 		id: 1,
 		artist: "GREEN DAY",
-		img: "../IMG/grd1.jpg",
+		img: "/tugas-akhir/IMG/grd1.jpg",
 		date: "15 Februari 2025",
 		location: "Carnaval Ancol, Jakarta",
 		description: "THE WAIT IS OVER!One of the world's greatest bands, Green Day is coming to Indonesia!Don't miss their legendary performance on February 15, 2025, at Carnaval Ancol, Jakarta. prepare yourself for a night of high energy, nostalgia, and unforgettable memories with Green Day!",
@@ -16,7 +16,7 @@ const concerts = [
 	{
 		id: 2,
 		artist: "UBS Gold FEST 2024",
-		img: "../IMG/g2.jpg",
+		img: "/tugas-akhir/IMG/g2.jpg",
 		date: "14 Desember 2024",
 		location: "Lap. Tenis Senayan, Jakarta",
 		description: "Live Performace & UBS gold Brand ambasador meet up.",
@@ -29,7 +29,7 @@ const concerts = [
 	{
 		id: 3,
 		artist: "SHADES & LIFE FESTIVAL",
-		img: "../IMG/g3.jpg",
+		img: "/tugas-akhir/IMG/g3.jpg",
 		date: "14 Desember 2024",
 		location: "14.00 - 22.00 - Pangudi Luhur, Jakarta",
 		description: "Beragam acara dan Penampilan dari band-band rock indonesia yang spektakuler dan menghibur.",
@@ -42,7 +42,7 @@ const concerts = [
 	{
 		id: 4,
 		artist: "LINKINPARK FROM WORLD ZERO TOUR",
-		img: "../IMG/lkp1.jpeg",
+		img: "/tugas-akhir/IMG/lkp1.jpeg",
 		date: "16 Februari 2025",
 		location: "Stadium Madya, Gelora Bung Karno",
 		description:
@@ -57,7 +57,7 @@ const concerts = [
 	{
 		id: 5,
 		artist: "30th RUMAHSAKIT",
-		img: "../IMG/rm1.jpeg",
+		img: "/tugas-akhir/IMG/rm1.jpeg",
 		date: "23 November 2024",
 		location: "Smi Building, Semarang",
 		description: "30th Perjalanan RUMAHSAKIT tour Nasional.",
@@ -70,7 +70,7 @@ const concerts = [
 	{
 		id: 6,
 		artist: "ISYANA SARASVATI: LOST IN HARMONY",
-		img: "../IMG/isn1.jpg",
+		img: "/tugas-akhir/IMG/isn1.jpg",
 		date: "16 November 2025",
 		location: "Istoria Senayan",
 		description: "Counting down to November 16th!Siap jadi bagian dari sejarah perjalan bermusik Isyana. ISYANA SARASVATI: LOST IN HARMONY, A Decade Live Concert,Tanggal 16 November2024, di Istora Senayan, Jakarta",
