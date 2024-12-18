@@ -29,8 +29,9 @@ header {
 .card {
 	background-color: #eaeef0;
 	border: none;
-	height: 400px;
 }
+.card-title {
+	heigth: 100px;
 .card-text {
 	overflow : hidden;
 	white-space : nowrap;
