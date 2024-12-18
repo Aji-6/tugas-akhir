@@ -30,6 +30,11 @@ header {
 	background-color: #eaeef0;
 	border: none;
 }
+.card-text {
+	overflow : hidden;
+	display : -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertikal;
 
 .card:hover {
 	box-shadow: 0 is 4px 6px 0 rgba(0, 0, 0, 0.2);
