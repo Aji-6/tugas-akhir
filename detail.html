@@ -77,10 +77,10 @@
                     <h2>${concert.artist}</h2>
                     <p><strong>Tanggal:</strong> ${concert.date}</p>
                     <p><strong>Lokasi:</strong> ${concert.location}</p>
-                    <p><strong>Deskripsi:</strong> ${concert.description}</p>
-                    <a href="${
-											concert.mapLink
-										}" target="_blank" class="btn btn-outline-primary">Lihat Peta Lokasi</a>
+		    <div class="card-text-ori">
+      			<p><strong>Deskripsi:</strong> ${concert.description}</p>
+	 			<a href="${concert.mapLink}" target="_blank" class="btn btn-outline-primary">Lihat Peta Lokasi</a>
+     		    </div>
                 </div>
                 <div class="col-12">
                     <h3>Kelas dan Harga Tiket</h3>
