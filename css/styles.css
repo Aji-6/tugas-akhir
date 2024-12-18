@@ -31,7 +31,9 @@ header {
 	border: none;
 }
 .card-title {
-	heigth: 100px;
+	height: 10px;
+}
+
 .card-text {
 	overflow : hidden;
 	white-space : nowrap;
