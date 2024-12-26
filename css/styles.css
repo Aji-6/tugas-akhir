@@ -31,7 +31,7 @@ header {
 	border: none;
 }
 
-.card-text {
+.card-text ,.card-title {
 	overflow : hidden;
 	white-space : nowrap;
 	text-overflow: ellipsis;
